@@ -1,0 +1,23 @@
+
+button {
+  margin: 5px;
+  border-radius: 4px;
+  padding: 5px;
+}
+
+button:hover{
+  background-color: aqua;
+}
+table {
+  border-collapse: collapse; 
+  width: 100%;
+}
+
+td {
+  padding: 0.1px; 
+  text-align: left; 
+}
+
+h1 {
+  margin-bottom: 0.2em; 
+}
